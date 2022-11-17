@@ -18,5 +18,6 @@ int main() {
             break;
         default:
             cout<<"opzione non valida";
+    }
    return 0;
 }
